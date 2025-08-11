@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-**Jean Araujo Pacheco**
+## Jean Araujo Pacheco
 **Profesión:** _Analisista y desarrollo desoftware_
 
 ## 📞 Contacto
