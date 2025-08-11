@@ -14,7 +14,8 @@
 - Boal - ayudante de lempieza de las zonas de construccion.
 
 ## SENA
-- tecnologo en analisis ydesarrollo de software 
+- tecnico en asistencia administrativa.
+- tecnologo en analisis ydesarrollo de software.
 
 ## 🎓 Institucion Educativa Departamental Los Alpes
 **bachiller y tecnico en asistencia administrativo** _(2020 - 2022)_
