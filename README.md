@@ -8,19 +8,27 @@
 - **Email:** [jeanalepacheco10@gmail.com](jeanalepacheco10@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
+
 ## 🏢 Experiencia Laboral
-### **Tematick Servise y Safrid e Ingenieria S.A.S** 
+## 🎓 SENA (2025 - Actualidad)
+- tecnologo en analisis y desarrollo de software
+- html
+- css
+- php 
+
+### **Tematick Servise** (2025 - Actualidad)
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
 - mesero - atencion al cliente, entregar bebidas y comidas.
+
+- ### **Safrid e Ingenieria S.A.S** _(2024 - 2024)_
 - Boal - ayudante de lempieza de las zonas de construccion.
 
-## 🎓 Institucion Educativa Departamental Los Alpes
-**bachiller y tecnico en asistencia administrativo** _(2020 - 2022)_
-
-## 🎓 SENA
-- tecnico en asistencia administrativa.
-- tecnologo en analisis ydesarrollo de software.
-
+## 🎓Educación
+SENA (2025 - Actualidad)
+°Aprendiz Analisis y Desarrollo de Software
+Institucion Educativa Departamental Los Alpes (2019 - 2023)
+°Bachiller
+Unidad Educativa Estadal Doctor Jose Francisco Torrealba (2011 - 2017)
 
 ## 💡 Habilidades
 - **Adaptable**
