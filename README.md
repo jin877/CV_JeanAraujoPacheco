@@ -20,8 +20,7 @@
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
 
 ## 🎓Educación
-
-SENA (2025 - Actualidad)
+- SENA (2025 - Actualidad)
 - Aprendiz Analisis y Desarrollo de Software
 Institucion Educativa Departamental Los Alpes (2019 - 2023)
 - Bachiller
