@@ -1,29 +1,32 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo Jean Araujo Pacheco
+**Profesión:** _Analisista y desarrollo desoftware_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [jeanalepacheco10@gamil.com](jeanalepacheco10@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Tematick Servise** _(2025 - Actualidad)_
+- Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
+- **SENA**
+- tecnologo en analisis ydesarrollo de software 
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
-## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+## 🎓 Institucion Educativa Departamental Los Alpes
+### **bachiller en asistencia administrativo** _(2020 - 2022)_
+- .
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Adaptable**
+- **Enfoque en el aprendizaje continuo**
+- **Resolutivo**
+- **lenguaje**
+- HTML
+- JAVASCRIPT
+- CSS+
+- PHP
 
 ---
 
