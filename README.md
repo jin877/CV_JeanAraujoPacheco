@@ -23,7 +23,7 @@ Jean Araujo Pacheco
 - **Adaptable**
 - **Enfoque en el aprendizaje continuo**
 - **Resolutivo**
-- **lenguaje**
+## lenguaje
 - HTML
 - JAVASCRIPT
 - CSS+
