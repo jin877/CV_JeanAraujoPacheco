@@ -13,12 +13,13 @@
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
 - Boal - ayudante de lempieza de las zonas de construccion.
 
+## 🎓 Institucion Educativa Departamental Los Alpes
+**bachiller y tecnico en asistencia administrativo** _(2020 - 2022)_
+
 ## 🎓 SENA
 - tecnico en asistencia administrativa.
 - tecnologo en analisis ydesarrollo de software.
 
-## 🎓 Institucion Educativa Departamental Los Alpes
-**bachiller y tecnico en asistencia administrativo** _(2020 - 2022)_
 
 ## 💡 Habilidades
 - **Adaptable**
