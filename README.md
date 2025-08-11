@@ -9,7 +9,7 @@
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Tematick Servise y Safrid e Ingenieria S.A.S** _(2025 - Actualidad)_
+### **Tematick Servise y Safrid e Ingenieria S.A.S** 
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
 - Boal - ayudante de lempieza de las zonas de construccion.
 
