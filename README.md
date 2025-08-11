@@ -12,6 +12,7 @@ Jean Araujo Pacheco
 ### **Tematick Servise** _(2025 - Actualidad)_
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
 - ## SENA
+- tecnico en asistencia adminitrativa
 - tecnologo en analisis ydesarrollo de software 
 
 ## 🎓 Institucion Educativa Departamental Los Alpes
