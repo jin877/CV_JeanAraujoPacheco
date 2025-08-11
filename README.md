@@ -16,7 +16,7 @@ Jean Araujo Pacheco
 - tecnologo en analisis ydesarrollo de software 
 
 ## 🎓 Institucion Educativa Departamental Los Alpes
-### **bachiller en asistencia administrativo** _(2020 - 2022)_
+**bachiller y tecnico en asistencia administrativo** _(2020 - 2022)_
 
 ## 💡 Habilidades
 - **Adaptable**
