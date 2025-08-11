@@ -18,10 +18,6 @@
 
 ### **Tematick Servise** (2025 - Actualidad)
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
-- mesero - atencion al cliente, entregar bebidas y comidas.
-
-- ### **Safrid e Ingenieria S.A.S** _(2024 - 2024)_
-- Boal - ayudante de lempieza de las zonas de construccion.
 
 ## 🎓Educación
 SENA (2025 - Actualidad)
