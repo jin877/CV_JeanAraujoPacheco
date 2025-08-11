@@ -11,6 +11,7 @@
 ## 🏢 Experiencia Laboral
 ### **Tematick Servise y Safrid e Ingenieria S.A.S** 
 - Administrador de ventas - en excel hacer una pantilla de los dias disponibles para eventos, los dias ya ocupados, y los que van a trabajar en cada evento.
+- mesero - atencion al cliente, entregar bebidas y comidas.
 - Boal - ayudante de lempieza de las zonas de construccion.
 
 ## 🎓 Institucion Educativa Departamental Los Alpes
