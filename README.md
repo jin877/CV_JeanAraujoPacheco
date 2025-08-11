@@ -26,7 +26,7 @@
 ## lenguaje
 - HTML
 - JAVASCRIPT
-- CSS+
+- CSS
 - PHP
 
 ---
