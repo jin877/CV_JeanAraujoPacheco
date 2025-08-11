@@ -1,11 +1,11 @@
 # CV_Example
 # Hoja de Vida
 
-Jean Araujo Pacheco
+**Jean Araujo Pacheco**
 **Profesión:** _Analisista y desarrollo desoftware_
 
 ## 📞 Contacto
-- **Email:** [jeanalepacheco10@gamil.com](jeanalepacheco10@gmail.com)
+- **Email:** [jeanalepacheco10@gmial.com](jeanalepacheco10@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
